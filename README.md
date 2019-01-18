@@ -1,6 +1,6 @@
 # ProboEngine
 
-The attached ProBoEngine project is structured in the following manner.
+The attached C# ProBoEngine project is structured in the following manner.
 
 "Program" is the initial class where the user input (requested units and upgrades) are specified.
  
