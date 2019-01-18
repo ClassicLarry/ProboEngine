@@ -1,6 +1,6 @@
 # ProboEngine
 
-The attached C# ProBoEngine project is structured in the following manner.
+The attached version of ProboEngine is a Visual Studio C# Windows Desktop Console App (.Net Framework) meant to be ran locally. An exported version of the complete project is attached and all of the individual classes have been uploaded as well. It is necessary to download math.numerics from a nuget package manager in order to run the matrix computations. The project files are structured in the following manner.
 
 "Program" is the initial class where the user input (requested units and upgrades) are specified.
  
